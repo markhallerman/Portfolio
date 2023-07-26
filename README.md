@@ -4,7 +4,7 @@ Portfolio is a portfolio application (resulting from a course given by Paul Huds
 
 ## Installation
 
-Download the zip file and install/run in XCode
+Download the zip file, extract and load in XCode
 
 ## Current (✔︎) and Upcoming (*) Features to Showcase within the Portfolio App
 Swift ✔︎  
